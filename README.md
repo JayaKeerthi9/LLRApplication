@@ -1,10 +1,10 @@
 # LLRApplication
 
-#USER LOGIN PAGE
+USER LOGIN PAGE
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/101186430/158016726-744cc342-9f5b-4be6-be54-ae6918d0e5ed.png">
 
-#SIGN UP
+SIGN UP
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/101186430/158016754-b7dbe436-940e-47bc-96d5-9d8594e01c62.png">
 
