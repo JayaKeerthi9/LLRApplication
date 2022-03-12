@@ -27,8 +27,11 @@ Here user can see the status of the user's LLR Aplication request
 
 Renewal form
 
+once the Application is expired, user can renewal the LLR Application using the following form:
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/101186430/158016860-03362ac0-3501-4cbe-a22a-066d472b71f0.png">
 
 Request to Admin regarding the application 
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/101186430/158016899-15d3e457-2515-4264-8aed-7705360240da.png">
+
+Thank You
